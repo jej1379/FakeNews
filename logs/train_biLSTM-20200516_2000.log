@@ -1,0 +1,250 @@
+Var Info: seq_len = 500,  hidden_dim: 200
+
+
+--- Train Step: 1 ---
+Acc = 0.3750, Loss = 3.1589
+
+--- Train Step: 5 ---
+Acc = 0.5625, Loss = 2.9056
+
+--- Train Step: 10 ---
+Acc = 0.5000, Loss = 4.7189
+
+--- Train Step: 15 ---
+Acc = 0.5000, Loss = 4.1185
+
+--- Train Step: 20 ---
+Acc = 0.6250, Loss = 4.4328
+
+--- Train Step: 25 ---
+Acc = 0.8125, Loss = 1.9960
+
+--- Train Step: 30 ---
+Acc = 0.6875, Loss = 0.8900
+
+--- Train Step: 35 ---
+Acc = 0.5000, Loss = 1.9394
+
+--- Train Step: 40 ---
+Acc = 0.7500, Loss = 1.7368
+
+--- Train Step: 45 ---
+Acc = 0.6250, Loss = 2.0217
+
+--- Train Step: 50 ---
+Acc = 0.7500, Loss = 0.8841
+
+--- Train Step: 55 ---
+Acc = 0.8750, Loss = 0.4598
+
+--- Train Step: 60 ---
+Acc = 0.6250, Loss = 1.1151
+
+--- Train Step: 65 ---
+Acc = 0.8750, Loss = 0.5585
+
+--- Train Step: 70 ---
+Acc = 0.5625, Loss = 1.1552
+
+--- Train Step: 75 ---
+Acc = 0.8750, Loss = 0.6115
+
+--- Train Step: 80 ---
+Acc = 0.6875, Loss = 1.0214
+
+--- Train Step: 85 ---
+Acc = 0.5625, Loss = 1.2012
+
+--- Train Step: 90 ---
+Acc = 0.6875, Loss = 0.7556
+
+--- Train Step: 95 ---
+Acc = 0.6250, Loss = 0.6678
+
+--- Train Step: 100 ---
+Acc = 0.6250, Loss = 0.6945
+
+--- Train Step: 105 ---
+Acc = 0.5000, Loss = 0.6139
+
+--- Train Step: 110 ---
+Acc = 0.6875, Loss = 0.5894
+
+--- Train Step: 115 ---
+Acc = 0.7500, Loss = 0.7945
+
+--- Train Step: 120 ---
+Acc = 0.5625, Loss = 0.6440
+
+--- Train Step: 125 ---
+Acc = 0.5000, Loss = 0.7067
+
+--- Train Step: 130 ---
+Acc = 0.7500, Loss = 0.5189
+
+--- Train Step: 135 ---
+Acc = 0.7500, Loss = 0.4458
+
+--- Train Step: 140 ---
+Acc = 0.8125, Loss = 0.5537
+
+--- Train Step: 145 ---
+Acc = 0.6250, Loss = 0.8319
+
+--- Train Step: 150 ---
+Acc = 0.7500, Loss = 0.3570
+
+--- Train Step: 155 ---
+Acc = 0.9375, Loss = 0.2889
+
+--- Train Step: 160 ---
+Acc = 0.7500, Loss = 0.3349
+
+--- Train Step: 165 ---
+Acc = 0.7500, Loss = 0.5267
+
+--- Train Step: 170 ---
+Acc = 0.8750, Loss = 0.1893
+
+--- Train Step: 175 ---
+Acc = 0.8750, Loss = 0.2800
+
+--- Train Step: 180 ---
+Acc = 0.7500, Loss = 0.6415
+
+--- Train Step: 185 ---
+Acc = 0.9375, Loss = 0.2161
+
+--- Train Step: 190 ---
+Acc = 0.8125, Loss = 0.3535
+
+--- Train Step: 195 ---
+Acc = 0.6875, Loss = 0.4700
+
+--- Train Step: 200 ---
+Acc = 0.9375, Loss = 0.2894
+
+--- Train Step: 205 ---
+Acc = 0.8125, Loss = 0.5573
+
+--- Train Step: 210 ---
+Acc = 0.8750, Loss = 0.2810
+
+--- Train Step: 215 ---
+Acc = 0.8750, Loss = 0.2600
+
+--- Train Step: 220 ---
+Acc = 0.7500, Loss = 0.5527
+
+--- Train Step: 225 ---
+Acc = 0.6250, Loss = 0.6838
+
+--- Train Step: 230 ---
+Acc = 0.8750, Loss = 0.4735
+
+--- Train Step: 235 ---
+Acc = 0.8125, Loss = 0.2801
+
+--- Train Step: 240 ---
+Acc = 0.9375, Loss = 0.2633
+
+--- Train Step: 245 ---
+Acc = 0.7500, Loss = 0.5052
+
+--- Train Step: 250 ---
+Acc = 0.8750, Loss = 0.2352
+
+--- Train Step: 255 ---
+Acc = 0.7500, Loss = 0.4396
+
+--- Train Step: 260 ---
+Acc = 0.8125, Loss = 0.4684
+
+--- Train Step: 265 ---
+Acc = 0.8750, Loss = 0.3195
+
+--- Train Step: 270 ---
+Acc = 1.0000, Loss = 0.1847
+
+--- Train Step: 275 ---
+Acc = 0.9375, Loss = 0.1396
+
+--- Train Step: 280 ---
+Acc = 0.7500, Loss = 0.7577
+
+--- Train Step: 285 ---
+Acc = 0.8750, Loss = 0.2723
+
+--- Train Step: 290 ---
+Acc = 0.7500, Loss = 0.4405
+
+--- Train Step: 295 ---
+Acc = 0.8125, Loss = 0.4052
+
+--- Train Step: 300 ---
+Acc = 0.7500, Loss = 0.5183
+
+--- Train Step: 305 ---
+Acc = 0.8125, Loss = 0.3872
+
+--- Train Step: 310 ---
+Acc = 0.7500, Loss = 0.4623
+
+--- Train Step: 315 ---
+Acc = 0.9375, Loss = 0.2720
+Training elapsed time: 9502.1712s per epoch
+
+--- Epoch: 1 ---
+Train Acc: 74.84, Train Loss: 0.8333
+Val Acc: 83.81, Val Loss: 0.3629
+
+--- Train Step: 1 ---
+Acc = 0.6875, Loss = 0.3761
+
+--- Train Step: 5 ---
+Acc = 0.7500, Loss = 0.5995
+
+--- Train Step: 10 ---
+Acc = 1.0000, Loss = 0.0297
+
+--- Train Step: 15 ---
+Acc = 0.8125, Loss = 0.4287
+
+--- Train Step: 20 ---
+Acc = 0.9375, Loss = 0.7279
+
+--- Train Step: 25 ---
+Acc = 0.9375, Loss = 0.1414
+
+--- Train Step: 30 ---
+Acc = 0.8125, Loss = 0.4328
+
+--- Train Step: 35 ---
+Acc = 0.9375, Loss = 0.1093
+
+--- Train Step: 40 ---
+Acc = 0.8125, Loss = 0.3215
+
+--- Train Step: 45 ---
+Acc = 0.8125, Loss = 0.3363
+
+--- Train Step: 50 ---
+Acc = 0.9375, Loss = 0.1320
+
+--- Train Step: 55 ---
+Acc = 0.9375, Loss = 0.3505
+
+--- Train Step: 60 ---
+Acc = 0.9375, Loss = 0.3780
+
+--- Train Step: 65 ---
+Acc = 1.0000, Loss = 0.0578
+
+--- Train Step: 70 ---
+Acc = 0.8750, Loss = 0.1943
+
+--- Train Step: 75 ---
+Acc = 0.9375, Loss = 0.1404
+
+--- Train Step: 80 ---
+Acc = 0.9375, Loss = 0.2131
